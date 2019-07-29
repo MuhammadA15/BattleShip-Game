@@ -364,12 +364,7 @@ Description : Displays department, section, name, euid, and email
 
 void Header()
 {
-        cout << "+-------------------------------------------------------+\n";
-        cout << "|            Computer Science and Engineering           |\n";
-        cout << "|             CSCE 1030 - Computer Science 1            |\n";
-        cout << "|   Muhammad Azam   mha0108   muhammadazam2@my.unt.edu  |\n";
-        cout << "+-------------------------------------------------------+\n";
-        cout << endl;
+	
 }
 
 /*
